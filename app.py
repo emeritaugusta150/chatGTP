@@ -1,6 +1,6 @@
 import openai
 from tkinter import *
-openai.api_key = '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'
+openai.api_key = 'your api_key'
 
 class App:
     
