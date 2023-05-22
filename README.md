@@ -1,1 +1,1 @@
-# chatGTP
+Proyecto básico de chatGTP
